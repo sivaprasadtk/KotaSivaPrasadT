@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TKotaSivaPrasadPortfolio/static/css/main.ad0a7e5d.css",
+    "main.js": "/TKotaSivaPrasadPortfolio/static/js/main.cc1faa8d.js",
+    "static/js/453.bb257cf5.chunk.js": "/TKotaSivaPrasadPortfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/tkotasivaprasad.JPG": "/TKotaSivaPrasadPortfolio/static/media/tkotasivaprasad.245288ba0f4a6d9f0a0c.JPG",
+    "static/media/KotaSivaPrasadT.pdf": "/TKotaSivaPrasadPortfolio/static/media/KotaSivaPrasadT.079634d14dd46e394a87.pdf",
+    "static/media/home-bg-image.jpg": "/TKotaSivaPrasadPortfolio/static/media/home-bg-image.88c675462650425efd33.jpg",
+    "index.html": "/TKotaSivaPrasadPortfolio/index.html",
+    "main.ad0a7e5d.css.map": "/TKotaSivaPrasadPortfolio/static/css/main.ad0a7e5d.css.map",
+    "main.cc1faa8d.js.map": "/TKotaSivaPrasadPortfolio/static/js/main.cc1faa8d.js.map",
+    "453.bb257cf5.chunk.js.map": "/TKotaSivaPrasadPortfolio/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad0a7e5d.css",
+    "static/js/main.cc1faa8d.js"
+  ]
+}
